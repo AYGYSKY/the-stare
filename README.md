@@ -1,2 +1,1 @@
-# the-stare
-hello github
+# 你好啊 hello github
